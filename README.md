@@ -1,0 +1,3 @@
+# RPG Quest Game
+The goal of this project was to build a Quest game on the Mbed platform using an embedded system in which the mbed microcontroller interfaces with a color micro-LCD display, an accelerometer, a microSD card reader,  push-buttons  and a small audio speaker. In this top-down RPG, the protagonist is controlled by tilting the game board; the accelerometer 
+is used as the input for character motion; the buttons are used to trigger actions in the game. The map area of the game is much larger than the area one can display on the screen, and the game objects on the map are stored in a hash table implemented from scratch. 
